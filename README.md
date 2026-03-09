@@ -1,2 +1,0 @@
-# hof-publish
-Maintenance page
